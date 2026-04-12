@@ -262,6 +262,12 @@ nav {
     font-weight: 600;
 }
 
+.citation-group {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
 .citations {
     background: rgba(129, 140, 248, 0.1);
     color: var(--acc-secondary);
